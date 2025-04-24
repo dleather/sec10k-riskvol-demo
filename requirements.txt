@@ -1,0 +1,5 @@
+sec-api-python
+scikit-learn
+yfinance
+pandas
+numpy
